@@ -189,6 +189,10 @@ Prefab:
       propertyPath: m_LocalRotation.w
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 11400000, guid: e6c1461484dcffd4690f32409bf8d584, type: 2}
+      propertyPath: buttonID
+      value: 68VPVB8SNFHJ4
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: e6c1461484dcffd4690f32409bf8d584, type: 2}
   m_RootGameObject: {fileID: 1934522303}
@@ -225,7 +229,9 @@ MonoBehaviour:
   buttonImage: {fileID: 2800000, guid: 6479fea86eac0724a95f5063a74a1817, type: 3}
   screenX: .5
   screenY: .5
-  buttonID: 
+  width: 92
+  height: 26
+  buttonID: 68VPVB8SNFHJ4
 --- !u!4 &1934522305
 Transform:
   m_ObjectHideFlags: 0
