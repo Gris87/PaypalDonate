@@ -41,6 +41,8 @@ MonoBehaviour:
   buttonImage: {fileID: 2800000, guid: 6479fea86eac0724a95f5063a74a1817, type: 3}
   screenX: .5
   screenY: .5
+  width: 125
+  height: 71
   buttonID: 
 --- !u!1001 &100100000
 Prefab:

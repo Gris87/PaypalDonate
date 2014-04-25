@@ -6,8 +6,8 @@ public class PaypalDonate : MonoBehaviour
 	public Texture2D buttonImage;
 	public float     screenX = 0.5f;
 	public float     screenY = 0.5f;
-	public int       width   = 92;
-	public int       height  = 26;
+	public int       width   = 125;
+	public int       height  = 71;
 	public string    buttonID;
 
 	private GUIStyle buttonStyle;
